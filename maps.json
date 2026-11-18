@@ -139,7 +139,7 @@
     "name": "OpenStreetMap",
     "maps": [
       {
-        "name": "Standard",
+        "name": "OSM Standard",
         "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap contributors</a>",
         "maxZoom": 19
@@ -151,7 +151,7 @@
         "maxZoom": 20
       },
       {
-        "name": "Humanitarian",
+        "name": "OSM Humanitarian",
         "url": "https://tile-{s}.openstreetmap.fr/hot/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap contributors</a>, <a href=\"https://www.hotosm.org\">Humanitarian OpenStreetMap Team</a> hosted by <a href=\"https://openstreetmap.fr\">OpenStreetMap France</a>",
         "maxZoom": 20
@@ -162,12 +162,12 @@
     "name": "basemap.de",
     "maps": [
       {
-        "name": "Farbe",
+        "name": "basemap.de (Farbe)",
         "url": "https://sgx.geodatenzentrum.de/wmts_basemapde/tile/1.0.0/de_basemapde_web_raster_farbe/default/GLOBAL_WEBMERCATOR/{z}/{y}/{x}.png",
         "attribution": "<a href=\"https://basemap.de\" target=\"_blank\" rel=\"noopener\">© GeoBasis-DE / BKG (2026)</a> <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a>"
       },
       {
-        "name": "Grau",
+        "name": "basemap.de (Grau)",
         "url": "https://sgx.geodatenzentrum.de/wmts_basemapde/tile/1.0.0/de_basemapde_web_raster_grau/default/GLOBAL_WEBMERCATOR/{z}/{y}/{x}.png",
         "attribution": "<a href=\"https://basemap.de\" target=\"_blank\" rel=\"noopener\">© GeoBasis-DE / BKG (2026)</a> <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a>"
       }
