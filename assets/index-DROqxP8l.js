@@ -40,8 +40,13 @@ function print() { __p += __j.call(arguments, '') }
 
 <p>
     Die K5 ist der amtliche Stadtplan von Berlin und zeigt jedes Gebäude, jede Straße und jede Grünfläche. So
-    siehst du zum Beispiel, wie nach der Wende die Mitte der Stadt neu bebaut wurde, wie der Hauptbahnhof
-    entstand oder wie sich dein Kiez in den letzten Jahrzehnten verändert hat.
+    siehst du zum Beispiel, wie nach der Wende die Mitte der Stadt neu bebaut wurde oder wie sich dein Kiez
+    in den letzten Jahrzehnten verändert hat.
+</p>
+
+<p>
+    Die Seite entstand in Zusammenarbeit mit Volker Stoi von
+    <a href="https://www.blnmap.de" target="_blank" rel="noopener">blnmap.de</a>.
 </p>
 
 <div class="d-flex align-items-center gap-3 mt-4 small text-body-secondary">
@@ -67,8 +72,13 @@ function print() { __p += __j.call(arguments, '') }
 
 <p>
     The K5 is the official city map of Berlin and shows every building, every street and every green space. For
-    example, you can see how the centre of the city was rebuilt after the fall of the Wall, how the
-    Hauptbahnhof was built or how your neighbourhood has changed over the last decades.
+    example, you can see how the centre of the city was rebuilt after the fall of the Wall or how your
+    neighbourhood has changed over the last decades.
+</p>
+
+<p>
+    The site was created in collaboration with Volker Stoi from
+    <a href="https://www.blnmap.de" target="_blank" rel="noopener">blnmap.de</a>.
 </p>
 
 <div class="d-flex align-items-center gap-3 mt-4 small text-body-secondary">
