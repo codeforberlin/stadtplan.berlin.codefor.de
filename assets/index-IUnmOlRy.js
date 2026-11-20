@@ -45,7 +45,7 @@ function print() { __p += __j.call(arguments, '') }
 </p>
 
 <p>
-    Die Seite entstand in Zusammenarbeit mit Volker Stoi von
+    Die Seite entstand auf Idee und in Zusammenarbeit mit Volker Stoi von
     <a href="https://www.blnmap.de" target="_blank" rel="noopener">blnmap.de</a>.
 </p>
 
@@ -77,7 +77,7 @@ function print() { __p += __j.call(arguments, '') }
 </p>
 
 <p>
-    The site was created in collaboration with Volker Stoi from
+    The site was created based on an idea by and in collaboration with Volker Stoi from
     <a href="https://www.blnmap.de" target="_blank" rel="noopener">blnmap.de</a>.
 </p>
 
